@@ -9,9 +9,6 @@ class LinkedList(object):
         self.head = head
         self.tail = tail
 
-
-# Add two linked list: 2.5 Sum Lists: You have two numbers represented by.
-# EXAMPLE Input: (7-> 1 -> 6) + (5 -> 9 -> 2).That is, 617 + 295.  Output: 2 -> 1 -> 9. That is, 912.
     def insert(self, data):
         """
         Inserts to the head of the list
